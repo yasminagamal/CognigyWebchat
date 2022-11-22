@@ -1,0 +1,12 @@
+node_modules
+/lib/
+dist/*.js
+dist/*.gz
+dist/*.br
+dist/*.zip
+dist/*.webmanifest
+dist/index.html
+
+cypress/screenshots
+cypress/videos
+.DS_Store
